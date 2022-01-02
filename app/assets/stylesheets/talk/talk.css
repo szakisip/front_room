@@ -1,9 +1,14 @@
+a {
+  text-decoration: none;
+}
+
 .wrapper {
   display: flex;
 }
+
 .side-bar {
   background-color: #253141;
-  width: 300px;
+  width: 20vw;
   height: 100vh;
 }
 
@@ -77,7 +82,8 @@
 
 .messages {
   background-color: #FAFAFA;
-  height: calc(100vh - 100px - 90px);
+  width: 60vw;
+  height: 100vh;
   padding: 46px 40px 0;
   overflow: scroll;
 }

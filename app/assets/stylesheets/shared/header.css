@@ -8,19 +8,19 @@
   display: flex;
   flex-direction: column;
   background-color: white;
-  position: sticky;
-  top: 0;
+  /* position: sticky;
+  top: 0; */
 }
 
 .search-bar-contents {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: gray;
+  /* background-color: gray; */
 }
 
 .frontroom-icon {
-  width: 80vw;
+  width: 70vw;
   /* margin: 0vh 10vw; */
 }
 
